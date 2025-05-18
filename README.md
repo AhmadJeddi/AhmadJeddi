@@ -53,7 +53,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: jeddizadehahmad@gmail.com
+- 📧 Email: jeddizadehahmad@gmail.com  
+- 💬 Telegram: [@AJzahed](https://t.me/AJzahed)
 
 ---
 
