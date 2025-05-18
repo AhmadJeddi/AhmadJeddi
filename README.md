@@ -36,7 +36,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmadJeddi&theme=radical&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmadJeddi&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&columns=2&row=1&rank=JOINED,EXPERIENCE" />
 </p>
 
 ---
