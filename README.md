@@ -44,7 +44,7 @@
 ## 📚 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadJeddi&layout=compact&theme=default" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmadJeddi&layout=compact&theme=default" />
 </p>
 
 ---
