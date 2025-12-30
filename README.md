@@ -34,14 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadJeddi&theme=default&show_icons=true)
-</p>
-
----
-
 ## 📚 Top Languages
 
 <p align="center">
