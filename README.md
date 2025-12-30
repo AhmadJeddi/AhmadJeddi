@@ -37,7 +37,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadJeddi&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadJeddi&show_icons=true&theme=default" />
 </p>
 
 ---
