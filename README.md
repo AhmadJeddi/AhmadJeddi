@@ -57,4 +57,4 @@
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> Thanks for stopping by! Let’s build something amazing together 💻✨
+> Thanks for stopping by! Let’s build something amazing together
