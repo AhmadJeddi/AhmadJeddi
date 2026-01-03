@@ -45,7 +45,6 @@
 ## 📫 Contact Me
 
 - 📧 Email: jeddi.dev@gmail.com  
-- 💬 Telegram: [@AJzahed](https://t.me/AJzahed)
 
 ---
 
