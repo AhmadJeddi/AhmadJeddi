@@ -52,7 +52,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: jeddi.dev@gmail.com  
+- 📧 Email: jeddi.dev@gmail.com
+- 🔗 LinkedIn: [ahmad-jeddizahed](https://www.linkedin.com/in/ahmad-jeddizahed)
 
 ---
 
