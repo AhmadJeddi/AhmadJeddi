@@ -1,60 +1,92 @@
 <h1 align="center">Hi there 👋 I'm Ahmad Jeddi</h1>
 
 <p align="center">
-  <b>Front-end developer</b> with a solid foundation in modern web technologies.<br/>
-  Experienced with <strong>Angular</strong> and exploring broader front-end ecosystems.<br/>
-  Passionate about building clean, scalable, and user-focused interfaces.
+  <b>Computer Engineering Student</b><br/>
+  Passionate about Front-end Development, Artificial Intelligence, and Deep Learning.<br/>
+  I enjoy building practical software and continuously learning modern technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Interested in building real-world web applications  
-- 🤝 Value teamwork, collaboration, and knowledge sharing  
-- 📈 Improving my skills in **TypeScript** and front-end best practices  
-- 🧠 Curious, motivated, and always learning  
-- 💼 Open to front-end development opportunities
+- 🎓 Computer Engineering student
+- 💻 Interested in Front-end Development and Machine Learning
+- 🧠 Currently improving my skills in modern web technologies and Python
+- 🔬 Working on Deep Learning and Speech Emotion Recognition (SER)
+- 🌱 Always learning, experimenting, and building new projects
+- 🤝 Open to collaboration on interesting open-source and AI projects
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass"/>
-  
-  <!-- Machine Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
-  
-  <!-- Tools & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </p>
 
 ---
 
-## 📚 Top Languages
+## 🔬 Current Interests
+
+- Artificial Intelligence
+- Deep Learning
+- Speech Emotion Recognition (SER)
+- Front-end Development
+- Clean Code
+- Open Source
+
+---
+
+## 🚀 Featured Projects
+
+### 🎤 Speech Emotion Recognition
+
+Deep Learning models for Speech Emotion Recognition using Log-Mel-base and Self-Supervised Learning representations (WavLM).
+
+> More AI projects will be published here soon.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmadJeddi&layout=compact&theme=default" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmadJeddi&layout=compact&theme=default" height="165"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
-- 📧 Email: jeddi.dev@gmail.com
-- 🔗 LinkedIn: [ahmad-jeddizahed](https://www.linkedin.com/in/ahmad-jeddizahed)
+- 📧 Email: **jeddi.dev@gmail.com**
+- 💼 LinkedIn: [ahmad-jeddizahed](https://www.linkedin.com/in/ahmad-jeddizahed)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> Thanks for stopping by! Let’s build something amazing together
+## 💡 Motto
+
+> *"Never stop learning. Every project is another step toward becoming a better engineer."*
+> 
+> Thanks for stopping by! Let’s build something amazing together.
