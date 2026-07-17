@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Computer Engineering Student</b><br/>
-  Passionate about Front-end Development, Artificial Intelligence, and Deep Learning.<br/>
-  I enjoy building practical software and continuously learning modern technologies.
+  Passionate about Artificial Intelligence, Deep Learning, Speech Processing, and Front-end Development.<br/>
+  I enjoy building practical software, conducting AI research, and continuously learning modern technologies.
 </p>
 
 ---
@@ -11,11 +11,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering student
-- 💻 Interested in Front-end Development and Machine Learning
-- 🧠 Currently improving my skills in modern web technologies and Python
+- 💻 Building web applications and AI projects
+- 🧠 Exploring modern technologies and solving real-world problems
 - 🔬 Working on Deep Learning and Speech Emotion Recognition (SER)
 - 🌱 Always learning, experimenting, and building new projects
-- 🤝 Open to collaboration on interesting open-source and AI projects
+- 🤝 Open to collaboration on open-source software and AI projects
 
 ---
 
@@ -49,24 +49,45 @@
 
 ---
 
-## 🔬 Current Interests
+## 🎯 Interests
 
 - Artificial Intelligence
 - Deep Learning
+- Speech Processing
 - Speech Emotion Recognition (SER)
 - Front-end Development
-- Clean Code
 - Open Source
+- Clean Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎤 Speech Emotion Recognition
+### 🎤 Speech Emotion Recognition *(Private – Coming Soon)*
 
-Deep Learning models for Speech Emotion Recognition using Log-Mel-base and Self-Supervised Learning representations (WavLM).
+Research project on Speech Emotion Recognition (SER) using handcrafted Log-Mel features and self-supervised WavLM representations under a unified deep learning framework.
 
-> More AI projects will be published here soon.
+> The source code will be released after the associated research paper is published.
+
+---
+
+### 🧠 ResNet-DCBAM
+
+A PyTorch package integrating the DCBAM attention module into ResNet architectures for image classification and deep learning research.
+
+---
+
+### 📚 JavaScript Notes
+
+A comprehensive collection of JavaScript notes covering core concepts, modern ES6+ features, asynchronous programming, DOM manipulation, and practical examples for learning and reference.
+
+---
+
+### 🌐 Educational Landing Page
+
+A responsive educational landing page built with HTML, CSS, and JavaScript, demonstrating clean UI design, responsive layouts, and modern front-end development practices.
+
+> More AI and software engineering projects will be published here soon.
 
 ---
 
