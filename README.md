@@ -46,9 +46,9 @@ Currently, I am a member of an applied AI team, collaborating on real-world AI s
 
 ## 🧠 How I Work
 
-- 🔎 Research-driven: studying ideas, papers, and architectures before implementation.
-- 💻 Engineering-focused: building modular, clean, and reproducible systems.
-- 🚀 Continuous learner: exploring new domains and turning ideas into working solutions.
+- 🔎 **Research-driven:** studying ideas, papers, and architectures before implementation.
+- 💻 **Engineering-focused:** building modular, clean, and reproducible systems.
+- 🚀 **Continuous learner:** exploring new domains and turning ideas into working solutions.
 
 ---
 
@@ -70,25 +70,25 @@ A research framework comparing **Log-Mel** and **WavLM** representations using l
 
 ---
 
-### 🧠 ResNet-DCBAM
+### 🧠 [ResNet-DCBAM](https://github.com/AhmadJeddi/Resnet-DCBAM)
 
 A modular PyTorch implementation of ResNet50 enhanced with Channel and Spatial Attention mechanisms.
 
 ---
 
-### 📚 JavaScript Notes
+### 📚 [JavaScript Notes](https://github.com/AhmadJeddi/javascript-notes)
 
 A structured collection of JavaScript concepts, examples, and best practices.
 
 ---
 
-### 🌐 Educational Landing Page
+### 🌐 [Educational Landing Page](https://github.com/AhmadJeddi/educational-landing-page)
 
 A responsive frontend project built with HTML5, CSS3, and JavaScript.
 
 ---
 
-### 🎨 Bootstrap Grid System
+### 🎨 [Bootstrap Grid System](https://github.com/AhmadJeddi/Bootstrap-GridSystem)
 
 A lightweight responsive grid system inspired by Bootstrap, built using CSS and Sass.
 
