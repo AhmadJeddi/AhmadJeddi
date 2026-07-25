@@ -141,6 +141,13 @@ A responsive NFT landing page designed in **Figma** and implemented using HTML5,
 
 ---
 
+### 📄 Research & Documentation
+
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+---
+
 ## 💡 Philosophy
 
 I believe impactful AI systems are built by combining research understanding, engineering discipline, and continuous experimentation.
