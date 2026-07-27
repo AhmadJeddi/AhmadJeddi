@@ -47,9 +47,19 @@ Deep Learning • Speech Processing • Computer Vision • Representation Learn
 
 A research framework comparing **Log-Mel** and **WavLM** representations using lightweight deep learning architectures.
 
-**Concepts:** CNN • ECA Attention • GeM Pooling • Representation Efficiency
+**Concepts:** CNN • ECA Attention • GeM Pooling • Self-Supervised Learning • Representation Efficiency
 
 *Research manuscript submitted for peer review.*
+
+---
+
+### 🌱 [Plant Disease Classification](https://github.com/AhmadJeddi/Plant-Disease-Classification)
+
+A deep learning framework for plant disease classification using **ResNet50 with DCBAM attention refinement** on the PlantVillage dataset.
+
+The project investigates attention-based feature enhancement for image classification and demonstrates a reproducible PyTorch training and evaluation pipeline.
+
+**Technologies:** PyTorch • ResNet50 • DCBAM • Computer Vision • Attention Mechanisms
 
 ---
 
